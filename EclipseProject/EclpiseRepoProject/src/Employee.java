@@ -5,6 +5,7 @@ public class Employee {
 		// TODO Auto-generated method stub
 
 		System.out.println("We added 1 project");
+		System.out.println("If u change nothing nothing will change");
 	}
 
 }
